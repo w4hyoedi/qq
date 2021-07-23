@@ -15,7 +15,7 @@ https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wRdfTFLUFPePhDNn66_U-pACX7g=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="LOKAL",Indosiar (Opt-2)
 http://45.126.83.51/qwr9ew/s/s04/index.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.antvklik.com/img/logo/logo-antv.svg" group-title="LOKAL",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.antvklik.com/img/w100/logo/channel/antv-official.jpg" group-title="LOKAL",ANTV
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="LOKAL",SCTV
