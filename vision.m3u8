@@ -9,13 +9,13 @@ https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merd
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jlw9krfWv1oQI5OjM1h2b84p_O0=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="LOKAL",GTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="LOKAL",Indosiar (Opt-1)
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wRdfTFLUFPePhDNn66_U-pACX7g=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="LOKAL",Indosiar (Opt-1)
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/indosiar.png" group-title="LOKAL",Indosiar (Opt-2)
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wRdfTFLUFPePhDNn66_U-pACX7g=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg" group-title="LOKAL",Indosiar (Opt-2)
 http://45.126.83.51/qwr9ew/s/s04/index.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/antv.png" group-title="LOKAL",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.antvklik.com/img/logo/logo-antv.svg" group-title="LOKAL",ANTV
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/sctv.png" group-title="LOKAL",SCTV
