@@ -101,25 +101,25 @@ http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV One" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="BERITA",TV One (Opt-1)
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV One" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/320px-TvOne_logo_2012.svg.png" group-title="BERITA",TV One (Opt-1)
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
 
-#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV One" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/tvone.png" group-title="BERITA",TV One (Opt-2)
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV One" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/320px-TvOne_logo_2012.svg.png" group-title="BERITA",TV One (Opt-2)
 http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="BERITA",Metro TV (Opt-1)
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="BERITA",Metro TV (Opt-1)
 https://stream-05.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS59kloWaoxCnB7HYXxOotQ0)/dm/3/x75p70w/d/live-2.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="BERITA",Metro TV (Opt-2)
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="BERITA",Metro TV (Opt-2)
 https://stream-03.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS59kloWaoxCnB7HYXxOotQ0)/dm/3/x75p70w/d/live-1.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="BERITA",METRO TV (Opt-3)
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="BERITA",METRO TV (Opt-3)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w727508021_b628000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="BERITA",METRO TV (Opt-4)
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="BERITA",METRO TV (Opt-4)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/metrotv.png" group-title="BERITA",METRO TV (Opt-5)
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/320px-LogoMetroTVsince2010.svg.png" group-title="BERITA",METRO TV (Opt-5)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RRINet.id" tvg-name="RRI Net" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="BERITA", RRI Net (720p)
@@ -146,35 +146,35 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="BERITA",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="BERITA",iNews
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/320px-INews.png" group-title="BERITA",iNews
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI NASIONAL" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="TVRI", TVRI NASIONAL
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI NASIONAL" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TVRI", TVRI NASIONAL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI NASIONAL" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="TVRI", TVRI NASIONAL
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI NASIONAL" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TVRI", TVRI NASIONAL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="TVRI",TVRI Nasional
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Nasional
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="TVRI",TVRI Nasional
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Nasional
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="TVRI3.id" tvg-name="TVRI 3" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="TVRI", TVRI 3
+#EXTINF:-1 tvg-id="TVRI3.id" tvg-name="TVRI 3" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TVRI", TVRI 3
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRI4.id" tvg-name="TVRI 4" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="TVRI", TVRI Sport HD (Opt-1)
+#EXTINF:-1 tvg-id="TVRI4.id" tvg-name="TVRI 4" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TVRI", TVRI Sport HD (Opt-1)
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRISportHD.id" tvg-name="TVRI Sport HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="TVRI",TVRI Sport HD (Opt-2)
+#EXTINF:-1 tvg-id="TVRISportHD.id" tvg-name="TVRI Sport HD" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sport HD (Opt-2)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1 tvg-id="TVRIAceh.id" tvg-name="TVRI Aceh" tvg-country="ID" tvg-language="Indonesian" tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="TVRI",TVRI Aceh
+#EXTINF:-1 tvg-id="TVRIAceh.id" tvg-name="TVRI Aceh" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Aceh
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
 
 
