@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/300px-RCTI_logo_2015.svg.png" group-title="LOKAL",RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/300px-RCTI_logo_2015.svg.png" group-title="LOKAL",RCTI 1
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/300px-RCTI_logo_2015.svg.png" group-title="LOKAL",RCTI 2
+https://iptv.mwafa.net/vidio?id=665
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/320px-MNCTV_logo_2015.svg.png" group-title="LOKAL",MNCTV
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
@@ -18,8 +21,11 @@ https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/320px-SCTV_Logo.svg.png" group-title="LOKAL",SCTV
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
 
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="Net TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/NETCHANNEL.png" group-title="LOKAL",NET.
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="Net TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/NETCHANNEL.png" group-title="LOKAL",NET. (Opt-1)
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="Net TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7c/NETCHANNEL.png" group-title="LOKAL",NET. (Opt-2)
+https://iptv.mwafa.net/vidio?id=875
 
 #EXTINF:-1 tvg-id="TRANSTV.id" tvg-name="TRANS TV" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/320px-Trans_TV_2013.svg.png" group-title="LOKAL",Trans TV
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
@@ -80,6 +86,8 @@ http://45.126.83.51/qwr9ew/s/s32/index.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-id="aniplus.id" tvg-name="Aniplus" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="KARTUN",Aniplus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
@@ -90,10 +98,8 @@ http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 tvg-id="KOMPAS.id" tvg-name="KOMPAS" tvg-country="ID" tvg-language="Indonesian" tvg-logo="" group-title="BERITA", KOMPAS
+https://iptv.mwafa.net/vidio?id=874
 
 #EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV One" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/320px-TvOne_logo_2012.svg.png" group-title="BERITA",TV One (Opt-1)
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
@@ -165,7 +171,6 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-id="TVRIAceh.id" tvg-name="TVRI Aceh" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Aceh
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-
 
 
 
