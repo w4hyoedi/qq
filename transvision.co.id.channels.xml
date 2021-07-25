@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channels>
     <channel update="i" site="transvision.co.id" site_id="TRIS" xmltv_id="!nsert">!nsert</channel>
     <channel update="i" site="transvision.co.id" site_id="AFCK" xmltv_id="AFC (Asian Food Channel) HD">AFC (Asian Food Channel) HD</channel>
     <channel update="i" site="transvision.co.id" site_id="ALZA" xmltv_id="Al Jazeera">Al Jazeera</channel>
@@ -102,5 +101,4 @@
     <channel update="i" site="transvision.co.id" site_id="WAKU" xmltv_id="WakuWaku Japan">WakuWaku Japan</channel>
     <channel update="i" site="transvision.co.id" site_id="WAR" xmltv_id="Warner TV HD">Warner TV HD</channel>
     <channel update="i" site="transvision.co.id" site_id="ZBIO" xmltv_id="Z Bioskop">Z Bioskop</channel>
-  </channels>
 </tv>
