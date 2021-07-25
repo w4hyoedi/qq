@@ -206,7 +206,7 @@ http://ott3.gearhostpreview.com/astro/live.php?id=42
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="English" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO SIGNATURE
 http://ott3.gearhostpreview.com/astro/live.php?id=43
 
-#EXTINF:-1 tvg-id="FOXACTIONMOVIES.us" tvg-name="FOX ACTION MOVIES" tvg-country="ID" tvg-language="English" tvg-logo="" group-title="Movies",FOX ACTION MOVIES
+#EXTINF:-1 tvg-id="FoxActionMoviesPlus1.us" tvg-name="FOX ACTION MOVIES" tvg-country="ID" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/184_144.png" group-title="Movies",FOX ACTION MOVIES
 http://ott3.gearhostpreview.com/astro/live.php?id=30
 
 #EXTINF:-1 tvg-id="FoxMoviesAsiaPlus1.us" tvg-name="FOX MOVIES" tvg-country="ID" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="Movies",FOX MOVIES
