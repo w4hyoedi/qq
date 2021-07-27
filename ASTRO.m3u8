@@ -12,7 +12,7 @@ http://ott3.gearhostpreview.com/astro/live.php?id=3
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV 7" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
 http://ott3.gearhostpreview.com/astro/live.php?id=4
 
-#EXTINF:-1 tvg-id="8.my" tvg-name="8" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",8
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia",8TV
 http://ott3.gearhostpreview.com/astro/live.php?id=5
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",tv9
@@ -54,10 +54,10 @@ http://ott3.gearhostpreview.com/astro/live.php?id=30
 #EXTINF:-1 tvg-id="Thrill.my" tvg-name="Thrill" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="English"  tvg-logo="https://i.imgur.com/WzyIoRc.png" group-title="Movies",Thrill 
 http://ott3.gearhostpreview.com/astro/live.php?id=31
 
-#EXTINF:-1 tvg-id="AXN.my" tvg-name="AXN" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="English"  tvg-logo="" group-title="Movies",AXN
+#EXTINF:-1 tvg-id="AXNEastAsia.us" tvg-name="AXN" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="English"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png" group-title="Movies",AXN
 http://ott3.gearhostpreview.com/astro/live.php?id=32
 
-#EXTINF:-1 tvg-id="TLC.my" tvg-name="TLC" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="English"  tvg-logo="" group-title="Movies",TLC
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.us" tvg-name="TLC" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="English"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="Movies",TLC
 http://ott3.gearhostpreview.com/astro/live.php?id=33
 
 #EXTINF:-1 tvg-id="FoxMoviesAsiaPlus1.us" tvg-name="FOX MOVIES" tvg-country="ID" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="Movies",FOX MOVIES
@@ -84,14 +84,14 @@ http://ott3.gearhostpreview.com/astro/live.php?id=42
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-country="MY" tvg-language="English" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO Signature
 http://ott3.gearhostpreview.com/astro/live.php?id=43
 
-#EXTINF:-1 tvg-id="HITS.us" tvg-name="HITS" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Movies",HITS
+#EXTINF:-1 tvg-id="Hits.sg" tvg-name="HITS" tvg-country="MY" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="Movies",HITS
 http://ott3.gearhostpreview.com/astro/live.php?id=44
 
-#EXTINF:-1 tvg-id="HITSMOVIES.us" tvg-name="HITS MOVIES" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Movies",HITS MOVIES
+#EXTINF:-1 tvg-id="HitsMoviesPlus1.sg" tvg-name="HITS MOVIES" tvg-country="MY" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="Movies",HITS MOVIES
 http://ott3.gearhostpreview.com/astro/live.php?id=45
 
 #EXTINF:-1 tvg-id="CelestialMoviesMalaysia.hk" tvg-name="Celestial Movies" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="Movies",CELESTIAL MOVIES
 http://ott3.gearhostpreview.com/astro/live.php?id=46
 
-#EXTINF:-1 tvg-id="ONE.us" tvg-name="ONE" tvg-country="MY" tvg-language="English" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",ONE
+#EXTINF:-1 tvg-id="One.in" tvg-name="ONE" tvg-country="MY" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="Movies",ONE
 http://ott3.gearhostpreview.com/astro/live.php?id=48
