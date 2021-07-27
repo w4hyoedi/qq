@@ -72,7 +72,7 @@ http://ott3.gearhostpreview.com/astro/live.php?id=38
 #EXTINF:-1 tvg-id="FoxAsia.us" tvg-name="FOX" tvg-country="ID" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png" group-title="Movies",FOX
 http://ott3.gearhostpreview.com/astro/live.php?id=39
 
-#EXTINF:-1 tvg-id="FOXCRIME.us" tvg-name="FOX CRIME" tvg-country="ID" tvg-language="English" tvg-logo="" group-title="Movies",FOX CRIME
+#EXTINF:-1 tvg-id="FOXCRIME.us" tvg-name="FOX CRIME" tvg-country="ID" tvg-language="English" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/180_144.png" group-title="Movies",FOX CRIME
 http://ott3.gearhostpreview.com/astro/live.php?id=40
 
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="English" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO Malaysia
